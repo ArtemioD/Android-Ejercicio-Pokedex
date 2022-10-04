@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="text_hp">HP</string>
+    <string name="text_atq">Ataque</string>
+    <string name="text_def">Defensa</string>
+    <string name="text_vel">Velocidad</string>
+
+    <string name="text_hp_change">HP:</string>
+    <string name="text_atq_change">Atq:</string>
+    <string name="text_def_change">Def:</string>
+    <string name="text_vel_change">Vel:</string>
+
+
+</resources>
